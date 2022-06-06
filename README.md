@@ -18,3 +18,11 @@ User's details are saved in MongoDB Atlas database, Mongoose Schema was used for
 Oh, I learnt a lot on this one as I'm just starting to learn Backend programming and i was able to create an Api using the Technologies above. I'm super proud and excited to keep learning and creating/building more stuff.
 
 
+
+## Documentation
+
+Read/Get Req - https://reg-user-api.herokuapp.com/api/auth
+
+Register/Post Req - https://reg-user-api.herokuapp.com/api/auth/register
+
+Delete req - https://reg-user-api.herokuapp.com/api/auth/delete
