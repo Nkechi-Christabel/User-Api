@@ -15,7 +15,7 @@ User's details are saved in MongoDB Atlas database, Mongoose Schema was used for
 
 
 ## Lessons Learned
-Oh, I learnt a lot on this one as I'm just starting to learn Backend programming and i was able to create an Api using the Technologies above. I'm super proud and excited to keep learning and creating/building more stuff.
+Oh, I learnt a lot on this one as I'm just starting to learn Backend programming and i was able to create an Api using the Technologies above. I learnt node.js, mongoDB, mongoose, express, express router, MVC structure, etc. I'm super proud and excited to keep learning and creating/building more stuff.
 
 
 
