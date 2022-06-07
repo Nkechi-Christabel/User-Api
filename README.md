@@ -6,7 +6,7 @@ User's details are saved in MongoDB Atlas database, Mongoose Schema was used for
 
 ## Tech Stack
 
-**Client:** JavaScript, MongoDB, Mongoose, Express.
+**Client:** JavaScript, Node.js, MongoDB, Mongoose, Express.
 
 
 ## Screenshots
