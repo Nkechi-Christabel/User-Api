@@ -23,6 +23,6 @@ Oh, I learnt a lot on this one as I'm just starting to learn Backend programming
 
 Read/Get Req - https://reg-user-api.herokuapp.com/api/auth
 
-Register/Post Req - https://reg-user-api.herokuapp.com/api/auth/register
+Create/Post Req - https://reg-user-api.herokuapp.com/api/auth/register
 
 Delete req - https://reg-user-api.herokuapp.com/api/auth/delete
