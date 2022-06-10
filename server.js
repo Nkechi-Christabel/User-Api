@@ -4,9 +4,8 @@ const cors = require("cors");
 const apiRoutes = require("./routes/apiRoutes");
 const app = express();
 const PORT = process.env.PORT || 8000;
-const dbURI =
-  "mongodb+srv://Nkechi:test123@auth.fifgyjk.mongodb.net/auth?retryWrites=true&w=majority";
-
+require("dotenv").config();
+const dbURI = process.env.DB_STRING;
 mongoose
   .connect(dbURI)
   .then((result) =>

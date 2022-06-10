@@ -4,7 +4,7 @@ const User = require("../models/user");
 const api_user = async (req, res) => {
   try {
     const user = await User.find().sort({ createdAt: -1 });
-    res.status(200).json(user);
+    res.json(user);
   } catch (err) {
     res.json({ message: err.message });
   }
